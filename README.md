@@ -1,55 +1,31 @@
-# 👋 Hi, I'm Chastity  
+# Hi, I'm Chastity Lewis 👋
 
-## About Me  
-I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate student** concentrating in **Artificial Intelligence & Machine Learning**, and a **creative entrepreneur** blending AI, beauty, and design.  
+## Applied Machine Learning Engineer | AI/ML Graduate Student
 
-- 🎓 Master’s in CS (AI & ML) at Mercy University  
-- 💼 Founder of **Lavish Creative Co** (branding + digital products for beauty & lifestyle brands)  
-- 🧠 Projects: **Melanin Match AI** (inclusive skin-tone analysis) & **Fierce AI** (AI tools for creators)  
-- 🌍 Passionate about **inclusive AI, ethical tech, and bridging creativity + technology**  
+🎓 MS in Computer Science (AI/ML) at Mercy University | Graduating Jan 2027  
+🔬 Published researcher in fairness-aware deep learning  
+💻 Building production ML systems for real-world impact
 
-📌 My GitHub highlights both **academic projects** and **portfolio builds**, reflecting my focus on **AI & ML applications**.  
+### 🚀 Current Focus
+- Fairness in computer vision and skin tone classification
+- MLOps and production ML deployment
+- Open source contributions to ML tooling
 
----
-## 🛠️ Skills & Tech Stack  
+### 🛠️ Tech Stack
+**ML/AI:** PyTorch • TensorFlow • scikit-learn • OpenCV • Keras  
+**Deployment:** Docker • AWS • FastAPI • Flask  
+**Data:** Pandas • NumPy • Matplotlib • SQL
 
-**Languages & Tools**  
-- Python, R, SQL  
-- Git, GitHub, Jupyter Notebooks  
+### 📌 Featured Projects
+- **[MelaninMatchAI](link)** - CNN-based skin tone classifier (92% accuracy)
+- **[JuaShade](link)** - Fairness-aware image processing for skin tone detection
+- **[AutoAI](link)** - Automated content generation using OpenAI API
 
-**AI & Machine Learning**  
-- TensorFlow, PyTorch, scikit-learn  
-- Deep Learning (CNNs, RNNs, GANs)  
-- Data preprocessing & augmentation  
-- Model evaluation & optimization  
+### 📫 Connect With Me
+[LinkedIn](your-linkedin) • [Portfolio](https://behance.net/LavishCreativeco) • clewis44@mercy.edu
 
-**Data & Visualization**  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Data analysis & visualization  
-- Statistical modeling  
-
-**Creative & Design Tools**  
-- Adobe Photoshop, Illustrator, InDesign, Premiere Pro, After Effects  
-- Branding & digital product design through **Lavish Creative Co**
-  
-
-## What I Work On  
-- 🔎 **Computer Vision & ML Pipelines** → OpenCV, TensorFlow, PyTorch  
-- 💡 **Data-Driven Applications** → beauty, fashion, and lifestyle tech  
-- 🎨 **Creative Projects** → branding & design through **Lavish Creative Co**  
-
----
-
-## Featured Projects  
-- **Melanin Match AI** → Inclusive skin-tone detection + makeup shade matching  
-- **Fierce AI** → AI-powered tools for beauty & lifestyle creators    
-- **SQL Project** → Database schema & relational queries  
-- **Lavish Creative Co** → Branding & design for small businesses  
-
-
----
-
-✨ Thanks for stopping by! I’m actively adding new projects each semester, so check back often.  
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LavishCreativeCo&show_icons=true&theme=radical)  
 
 
 
